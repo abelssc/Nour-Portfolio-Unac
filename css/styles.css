@@ -286,7 +286,7 @@ header{
     margin: auto;
     width: 70%;
     height: 90%;
-    background-image: url(../img/asian2.jpg);
+    background-image: url(../img/yo.png);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -586,7 +586,7 @@ header{
 /*==================END RESUME=================*/
 /*==================START PROJECTS=================*/
 #projectos{
-    background-image: url(../img/asian3.jpg);
+    background-image: url("http://lorempixel.com/1800/500/animals/");
     background-attachment: fixed;
     background-size: cover;
     
